@@ -18,6 +18,7 @@ The project uses:
 The objective is to deploy an application on an EC2 server, configure Nginx as a reverse proxy, manage the application using systemd, automate deployment using a Bash script, and create application backups in Amazon S3.
 
 ## Architecture
+![AWS Project 3 Architecture Diagram](architecture-diagram.png)
 
 ```text
                     GitHub
